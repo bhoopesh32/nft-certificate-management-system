@@ -1,0 +1,7 @@
+
+TO RUN THIS, DOWNLOAD IT.
+GO TO TERMINAL AND ENTER THIS TWO COMMANDS
+
+npm install
+npm start
+```
